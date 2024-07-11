@@ -6,7 +6,7 @@ Citation: THOMAS ERBER Rev. Mod. Phys. 38, 626 (1966)
 
 Link to paper: https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.38.626
 
-Author of notebook with (partially) reproduced results: Óscar Amaro
+Author of notebook with (partially) reproduced results: [Óscar Amaro](https://github.com/OsAmaro)
 
 Abstract: _General characteristics of magnetic bremsstrahlung (synchrotron radiation) are derived on the basis of calculations utilizing exact relativistic matrix elements. The spectral and total energy losses may be described by compact expressions incorporating radiative and quantum corrections. Comparisons of the relative efficacy of matter and magnetic fields as bremsstrahlung radiators indicate that even under relatively conservative conditions the natural conversion rates associated with the magnetic process (i.e., 9.6×103 BeV/mm) tends to favor this type of conversion over ordinary bremsstrahlung.\
 Discussions of a similar scope—including detailed calculations, and comparisons with the corresponding processes in material media—are also carried out for magnetic pair production, direct and indirect trident cascades, and magnetic photon splitting.\
